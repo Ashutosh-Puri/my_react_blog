@@ -1,0 +1,124 @@
+{
+    "blogs":[
+    {
+        "id": 1,
+        "title": "Embracing the Morning",
+        "body": "Good morning! Starting the day with gratitude can set a positive tone. Here are some morning routines to boost your mood and productivity.",
+        "author": "Akshay"
+    },
+    {
+        "id": 2,
+        "title": "Afternoon Reflections",
+        "body": "Good afternoon! Taking a moment to reflect on your day can help you stay focused. Let’s explore ways to maintain motivation during the afternoon slump.",
+        "author": "Tejas"
+    },
+    {
+        "id": 3,
+        "title": "Evening Calm",
+        "body": "Good evening! The evening is a great time to unwind and reflect on your day. Here are some calming activities to help you relax before bed.",
+        "author": "Akshay"
+    },
+    {
+        "id": 4,
+        "title": "Winding Down for the Night",
+        "body": "Good night! Establishing a nighttime routine can improve your sleep quality. Discover tips for creating the perfect evening ritual.",
+        "author": "Vrushali"
+    },
+    {
+        "id": 5,
+        "title": "Hello World: A Programmer's Journey",
+        "body": "Hello world! Programming is a fascinating field. Let’s dive into the basics of coding and how to get started with your first project.",
+        "author": "Rohit"
+    },
+    {
+        "id": 6,
+        "title": "Understanding JSON",
+        "body": "JSON is a lightweight data interchange format. This post explains its structure, uses, and why it's become so popular in web development.",
+        "author": "Neha"
+    },
+    {
+        "id": 7,
+        "title": "Nature's Wonders",
+        "body": "Nature has a way of inspiring us. In this blog, we’ll explore some breathtaking natural landscapes and their impact on our well-being.",
+        "author": "Akshay"
+    },
+    {
+        "id": 8,
+        "title": "Essential Coding Tips for Beginners",
+        "body": "Learning to code can be overwhelming. Here are some essential tips and resources that will make your coding journey smoother and more enjoyable.",
+        "author": "Tejas"
+    },
+    {
+        "id": 9,
+        "title": "Travel Diaries: Adventures Await",
+        "body": "Travel opens up a world of experiences. Join me as I recount my favorite travel adventures and share tips for planning your next trip.",
+        "author": "Vrushali"
+    },
+    {
+        "id": 10,
+        "title": "The Joy of Cooking",
+        "body": "Cooking can be a delightful experience. Here are some easy recipes to try at home and tips for making your cooking journey enjoyable.",
+        "author": "Rohit"
+    },
+    {
+        "id": 11,
+        "title": "My Fitness Journey",
+        "body": "Fitness is a personal journey for everyone. In this blog, I share my fitness story and some tips on how to stay motivated.",
+        "author": "Neha"
+    },
+    {
+        "id": 12,
+        "title": "Technology Trends to Watch",
+        "body": "The tech world is ever-evolving. This post highlights the latest trends in technology and how they might shape our future.",
+        "author": "Akshay"
+    },
+    {
+        "id": 13,
+        "title": "Mental Health Matters",
+        "body": "Mental health is crucial for our overall well-being. Here are some tips for practicing self-care and supporting mental health awareness.",
+        "author": "Tejas"
+    },
+    {
+        "id": 14,
+        "title": "Creative Writing Techniques",
+        "body": "Writing can be a powerful outlet. In this blog, I share techniques to boost your creative writing skills and overcome writer's block.",
+        "author": "Vrushali"
+    },
+    {
+        "id": 15,
+        "title": "The Importance of Rest",
+        "body": "Rest is often overlooked but vital for our health. Let’s explore the benefits of rest and how to incorporate it into our busy lives.",
+        "author": "Rohit"
+    },
+    {
+        "id": 16,
+        "title": "Photography Basics",
+        "body": "Photography is an art form that captures moments. This post covers the basics of photography and tips for taking stunning photos.",
+        "author": "Neha"
+    },
+    {
+        "id": 17,
+        "title": "Embracing Minimalism",
+        "body": "Minimalism can lead to a more fulfilling life. Let’s discuss the principles of minimalism and how to start decluttering your space.",
+        "author": "Akshay"
+    },
+    {
+        "id": 18,
+        "title": "The Joy of Reading",
+        "body": "Reading opens up new worlds. Here are some book recommendations and tips on how to cultivate a reading habit.",
+        "author": "Tejas"
+    },
+    {
+        "id": 19,
+        "title": "Sustainable Living Practices",
+        "body": "Living sustainably is essential for our planet. This blog provides practical tips for incorporating sustainability into your daily life.",
+        "author": "Vrushali"
+    },
+    {
+        "id": 20,
+        "title": "Mindfulness Techniques for Everyday Life",
+        "body": "Mindfulness can enhance our quality of life. Discover techniques to incorporate mindfulness into your daily routine for greater peace.",
+        "author": "Rohit"
+    }
+]
+}
